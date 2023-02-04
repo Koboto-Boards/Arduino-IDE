@@ -10,7 +10,7 @@
         {
           "name": "Koboto Boards",
           "architecture": "avr",
-          "version": "1.0.0",
+          "version": "1.0",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/Koboto-Boards/Boards-to-ArduinoIDE"
