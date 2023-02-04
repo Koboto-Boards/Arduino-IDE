@@ -1,7 +1,7 @@
 # koboto.io
 
 Version: 1.0.0<br>
-Release date: 2023/02/04<br>
+Release date: 2023/02/04
 [www.koboto.io](https://koboto.io/)
 
 These files are the software for the Koboto.io Boards Using Atmega328PB MCU.
@@ -23,7 +23,7 @@ can also be found in the user's guide for each controller).
 2.  In the Preferences dialog, find the "Additional Boards Manager URLs" text
     box. Copy and paste the following URL into this box:
 
-    **`https://github.com/Koboto-Boards/Boards-to-ArduinoIDE/raw/koboto.io_V1.0/package_koboto.io_index.json`**
+    **`https://waw.github.com/Koboto-Boards/Arduino-IDE/main/package_koboto.io_index.json`**
 
     If there are already other URLs in the box, you can either add this one
     separated by a comma or click the button next to the box to open an input
